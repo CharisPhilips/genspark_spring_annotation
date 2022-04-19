@@ -1,4 +1,4 @@
-package com.genspark.DI.dependencyInjection;
+package com.genspark.dependencyInjection;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
